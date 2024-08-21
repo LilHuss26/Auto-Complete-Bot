@@ -12,11 +12,6 @@ This Python script implements a basic N-gram language model for text autocomplet
 * Calculates probabilities for next words using Laplace smoothing.
 * Provides suggestions based on multiple N-gram models, allowing the user to choose the best fit.
 
-**Installation:**
-
-1. Clone this repository: `git clone https://github.com/your-username/n-gram-autocomplete`
-2. Install required libraries: `pip install nltk pandas numpy`
-
 **Usage:**
 
 1. Save the script as `n_gram_autocomplete.py`.
